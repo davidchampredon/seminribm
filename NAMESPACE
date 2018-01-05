@@ -1,0 +1,3 @@
+useDynLib(seminribm, .registration=TRUE)
+exportPattern("^[[:alpha:]]+")
+importFrom(Rcpp, evalCpp)
