@@ -6,7 +6,7 @@ Date: 2018-01-05
 Author: David Champredon
 Maintainer: David Champredon <david.champredon@gmail.com>
 Description: Epidemiological model of type SEIR, with m 'E' states and n 'I' states. Individual-based and Gillespie algorithm (with tau-leap or not).
-License: GPL (>= 2)
+License: MIT
 Imports: Rcpp (>= 0.12.14)
 LinkingTo: Rcpp
 RoxygenNote: 6.0.1
