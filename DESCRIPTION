@@ -1,12 +1,11 @@
 Package: seminribm
 Type: Package
-Title: What the Package Does in One 'Title Case' Line
-Version: 1.0
+Title: Individual-based SEmInR model
+Version: 0.1
 Date: 2018-01-05
 Author: David Champredon
-Maintainer: David Champredon <your@email.com>
-Description: One paragraph description of what the package does as one
-        or more full sentences.
+Maintainer: David Champredon <david.champredon@gmail.com>
+Description: Epidemiological model of type SEIR, with m 'E' states and n 'I' states. Individual-based and Gillespie algorithm (with tau-leap or not).
 License: GPL (>= 2)
 Imports: Rcpp (>= 0.12.14)
 LinkingTo: Rcpp
